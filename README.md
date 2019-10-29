@@ -12,7 +12,7 @@
 
 **a. Link to a video of your HelloYou sketch running.**
 
-[HelloYou](https://photos.app.goo.gl/WrmqcH1EJ6b2Djah9)
+
 
 ## Part B. Web Camera
 
@@ -23,6 +23,8 @@ Had to implement NodeWebcam and include webcam setup
 [Differences](https://github.com/JwayYih/IDD-Fa19-Lab7/blob/master/diff.txt)
 
 **b. Include a video of your working video doorbell**
+
+[Working Doorbell](https://photos.app.goo.gl/WrmqcH1EJ6b2Djah9)
 
 ## Part C. Make it your own
 
