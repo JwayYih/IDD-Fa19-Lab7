@@ -28,4 +28,6 @@ Had to implement NodeWebcam and include webcam setup
 
 **a. Find, install, and try out a node-based library and try to incorporate into your lab. Document your successes and failures (totally okay!) for your writeup. This will help others in class figure out cool new tools and capabilities.**
 
+Used the [image-js](https://www.npmjs.com/package/image-js) package to manipulate images like resizing, cropping, grayscale, and color inversion.  Couldn't get it still unsure why.
+
 **b. Upload a video of your working modified project**
