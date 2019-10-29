@@ -20,6 +20,7 @@
 
 Had to implement NodeWebcam and include webcam setup
 
+```
 < //---------------------- WEBAPP SERVER SETUP ---------------------------------//
 ---
 > const SerialPort = require('serialport')
@@ -74,6 +75,7 @@ Had to implement NodeWebcam and include webcam setup
 < };
 < var Webcam = NodeWebcam.create( opts ); //starting up the webcam
 < //----------------------------------------------------------------------------//
+```
 
 [Differences](https://github.com/JwayYih/IDD-Fa19-Lab7/blob/master/diff.txt)
 
