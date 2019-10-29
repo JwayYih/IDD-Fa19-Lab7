@@ -20,7 +20,7 @@
 
 Had to implement NodeWebcam and include webcam setup
 
-[Differences] (https://github.com/JwayYih/IDD-Fa19-Lab7/blob/master/diff.txt)
+[Differences](https://github.com/JwayYih/IDD-Fa19-Lab7/blob/master/diff.txt)
 
 **b. Include a video of your working video doorbell**
 
